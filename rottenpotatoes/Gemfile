@@ -15,6 +15,7 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'pry'
   gem 'pry-byebug'
+  gem 'sprockets', '3.6.3'
 end
 
 group :test do
